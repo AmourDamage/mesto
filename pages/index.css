@@ -6,3 +6,16 @@
 
 @import url(../blocks/header/header.css);
 
+
+@import url(../blocks/person/person.css);
+@import url(../blocks/person/__container/person__container.css);
+@import url(../blocks/person/__image/person__image.css);
+@import url(../blocks/person/__wrap/person__wrap.css);
+@import url(../blocks/person/__info/person__info.css);
+@import url(../blocks/person/__title/person__title.css);
+@import url(../blocks/person/__button/person__button.css);
+@import url(../blocks/person/__subtitle/person__subtitle.css);
+@import url(../blocks/person/__button-add/person__button-add.css);
+
+
+

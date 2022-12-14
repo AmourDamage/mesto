@@ -1,0 +1,17 @@
+.person__button {
+    background: black;
+
+    padding: 0;
+    margin: 0;
+
+    background-image: url(../../../images/profile-btn.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    min-width: 24px;
+    min-height: 24px;
+    
+    border: 1px solid #FFFFFF;
+
+    margin-left: 18px;
+}

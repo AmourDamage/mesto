@@ -1,0 +1,24 @@
+.person__button-add {
+    display: block;
+    border: none;
+    background: #000000;
+    border: 2px solid #FFFFFF;
+    border-radius: 2px;
+    
+    padding: 0;
+    margin: 0;
+    background-image: url(../../../images/add-btn.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    max-width: 150px;
+    width: 100%;
+    height: 50px;
+   
+
+    
+   
+
+    
+    
+}
