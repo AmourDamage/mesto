@@ -26,6 +26,9 @@
 @import url(../blocks/places/__button/places__button.css);
 @import url(../blocks/places/__heart-icon/places__heart-icon.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
 
 
 
