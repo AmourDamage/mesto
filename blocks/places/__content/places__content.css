@@ -1,0 +1,12 @@
+.places__content {
+    background: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 15px 31px 21px;
+
+    border-radius: 0px 0px 10px 10px;
+
+   
+
+    
+}

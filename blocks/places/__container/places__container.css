@@ -1,0 +1,14 @@
+.places__container {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(280px, 282px));
+    align-items: center;
+    justify-content: center;
+    gap: 20px 17px;
+
+    margin: 0 auto;
+    padding: 0;
+
+    max-width: 880px;
+    
+    
+}
