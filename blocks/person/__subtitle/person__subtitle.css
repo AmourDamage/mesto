@@ -8,3 +8,23 @@
 
 
 }
+
+@media (max-width: 768px) {
+    .person__subtitle {
+       margin-top: 14px;
+       
+    }
+}
+
+@media (max-width: 320px) {
+    
+    .person__subtitle {
+        
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+        color: #FFFFFF;
+
+    }
+ }

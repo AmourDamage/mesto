@@ -2,3 +2,16 @@
     margin: 0px 0px 0px 30px;
     padding: 0;
 }
+
+@media (max-width: 768px) {
+    .person__wrap {
+       margin: 22px 0px 0px 0px;
+       text-align: center;
+    }
+}
+
+@media (max-width: 320px) {
+    .person__wrap {
+       
+    }
+ }

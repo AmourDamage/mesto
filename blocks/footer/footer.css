@@ -5,3 +5,12 @@
 
     padding: 67px 0px 60px 0px;
 }
+
+
+@media (max-width: 320px) {
+    .footer {
+      max-width: 280px;
+      width: 100%;
+       
+    }
+}

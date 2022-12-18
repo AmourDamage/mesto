@@ -8,3 +8,15 @@
     
     padding-top: 40px;
 }
+
+@media (max-width: 768px) {
+    .person {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 320px) {
+    .person {
+        max-width: 282px;
+    }
+}

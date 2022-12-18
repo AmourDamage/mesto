@@ -12,3 +12,17 @@
    
     
 }
+
+@media (max-width: 768px) {
+    .header {
+     padding: 28px 0 31px 27px;
+    }
+ }
+
+@media (max-width: 320px) {
+   .header {
+    max-width: 320px;
+    width: 100%;
+    
+   }
+}

@@ -14,11 +14,14 @@
     max-width: 150px;
     width: 100%;
     height: 50px;
-   
 
-    
-   
+}
 
-    
-    
+@media (max-width: 768px) {
+    .person__button-add {
+       min-width: 282px;
+       width: 100%;
+       margin-top: 36px;
+       
+    }
 }

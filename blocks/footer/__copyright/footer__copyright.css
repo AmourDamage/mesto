@@ -10,3 +10,11 @@
     margin: 0;
     padding: 0;
 }
+
+
+@media (max-width: 320px) {
+    .footer__copyright {
+        font-size: 14px;
+        line-height: 17px;
+    }
+}

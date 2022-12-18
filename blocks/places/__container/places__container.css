@@ -10,5 +10,17 @@
 
     max-width: 880px;
     
-    
+}
+
+@media (max-width: 1024px) {
+    .places__container {
+        grid-template-columns: repeat(2, minmax(280px, 282px));
+    }
+}
+
+
+@media (max-width: 600px) {
+    .places__container {
+        grid-template-columns: repeat(1, minmax(280px, 282px));
+    }
 }
