@@ -17,6 +17,7 @@
 @import url(../blocks/person/__button/person__button.css);
 @import url(../blocks/person/__subtitle/person__subtitle.css);
 @import url(../blocks/person/__button-add/person__button-add.css);
+@import url(../blocks/button/button.css);
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/__container/places__container.css);

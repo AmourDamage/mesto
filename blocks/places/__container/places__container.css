@@ -22,5 +22,7 @@
 @media (max-width: 600px) {
     .places__container {
         grid-template-columns: repeat(1, minmax(280px, 282px));
+        max-width: 282px;
+        width: 100%;
     }
 }
