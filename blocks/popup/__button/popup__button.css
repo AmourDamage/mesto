@@ -1,0 +1,22 @@
+.popup__button {
+    background: #000000;
+    border-radius: 2px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+
+    padding: 14px 124px 18px 124px;
+    margin: 0px 0px 37px;
+
+    border: none;
+ 
+ }
+
+ @media (max-width: 768px) {
+    .popup__button {
+        padding: 14px 82px 14px 82px;
+        margin-bottom: 25px;
+    }
+}
