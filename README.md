@@ -16,7 +16,7 @@
 * Структура файлов Nested по БЭМ
 * Наименование классов по БЭМ
 
-# Ссылка на git hub pages :
+# Ссылка на git hub pages : https://amourdamage.github.io/mesto/
 
 
 
