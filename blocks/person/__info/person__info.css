@@ -1,4 +1,18 @@
 .person__info {
     display: flex;
     align-items: center;
+    gap: 18px;
+    justify-content: center;
+    
 }
+
+@media (max-width: 320px) {
+    .person__info {
+      gap: 10px;
+      transform: translateX(16px);
+      
+      
+    }
+}
+
+

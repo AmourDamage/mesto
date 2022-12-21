@@ -2,29 +2,25 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
-
     margin: 16px 0px 0px 0px;
-
-
-
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 @media (max-width: 768px) {
     .person__subtitle {
-       margin-top: 14px;
-       
+       margin-top: 9px;
     }
 }
 
 @media (max-width: 320px) {
-    
+
     .person__subtitle {
-        
         font-weight: 400;
         font-size: 14px;
         line-height: 17px;
         text-align: center;
         color: #FFFFFF;
-
     }
  }
