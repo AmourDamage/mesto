@@ -11,6 +11,6 @@
 @media (max-width: 320px) {
     .person__button {
       padding: 8px;
-      
+      background-size: 7.5px 7.5px;
     }
 }

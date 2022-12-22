@@ -18,21 +18,25 @@ function handleFormSubmit (evt) {
     evt.preventDefault();
     personTitle.textContent = nameInput.value;
     personSubtitle.textContent = jobInput.value;
-    togglePopup();
+    closePopup();
 }
 
 formElement.addEventListener('submit', handleFormSubmit);
 
 
-function togglePopup() {
-    popupModal.classList.toggle('popup_opened');
-
+function openPopup() {
+    popupModal.classList.add('popup_opened');
     nameInput.value = personTitle.textContent;
     jobInput.value = personSubtitle.textContent;
+    
+}
+
+function closePopup() {
+    popupModal.classList.remove('popup_opened')
 }
 
 
-popupButton.addEventListener('click', togglePopup);
-popupClose.addEventListener('click', togglePopup);
+popupButton.addEventListener('click', openPopup);
+popupClose.addEventListener('click', closePopup);
 
 

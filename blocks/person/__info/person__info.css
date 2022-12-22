@@ -3,13 +3,16 @@
     align-items: center;
     gap: 18px;
     justify-content: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
     
 }
 
 @media (max-width: 320px) {
     .person__info {
       gap: 10px;
-      transform: translateX(16px);
+      
       
       
     }
