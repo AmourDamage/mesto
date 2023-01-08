@@ -1,0 +1,59 @@
+[33mcommit 503b7f16ec9470133e646fbe56307875d3b58b3d[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: damage <damaguk@mail.ru>
+Date:   Wed Dec 21 00:17:42 2022 +0400
+
+    проект доделан
+
+[33mcommit 909b6c8aaf7874a4ef504644b720ddeddebaa931[m
+Author: damage <damaguk@mail.ru>
+Date:   Mon Dec 19 19:10:38 2022 +0400
+
+    сделаны анимации кнопок и пофикшен лэйаут футера
+
+[33mcommit fcb0b7ee6b71f049e4caf11b69deb5de60fe1e0e[m
+Author: damage <damaguk@mail.ru>
+Date:   Sun Dec 18 19:11:33 2022 +0400
+
+    сделан адаптив
+
+[33mcommit 0a021b3d65d5d4f9040fcf6fbb219d2b0caf9e62[m
+Author: damage <damaguk@mail.ru>
+Date:   Thu Dec 15 20:33:46 2022 +0400
+
+    сделать header
+
+[33mcommit e56bcd48089a3e37a6ce726c6c444e0594e94330[m
+Author: damage <damaguk@mail.ru>
+Date:   Thu Dec 15 20:27:24 2022 +0400
+
+    сделать секцию places
+
+[33mcommit 9dc8003ad330258013fc423ebf5a8a0eedcf1e37[m
+Author: damage <damaguk@mail.ru>
+Date:   Thu Dec 15 00:06:57 2022 +0400
+
+    сделать верстку секции профайл
+
+[33mcommit dd9c9175102814bd59b7bf02f5a3145126785ef7[m
+Author: damage <damaguk@mail.ru>
+Date:   Wed Dec 14 20:40:39 2022 +0400
+
+    сделать хэдер
+
+[33mcommit 57297ce67a79cb15d7c22789b20877498a00eb2a[m
+Author: damage <damaguk@mail.ru>
+Date:   Wed Dec 14 20:19:44 2022 +0400
+
+    test
+
+[33mcommit 2e7f6891f8c43e40e08329f0ebc5ee8c0d1daf94[m
+Author: damage <damaguk@mail.ru>
+Date:   Wed Dec 14 20:14:22 2022 +0400
+
+    test
+
+[33mcommit 10de24f37e33ffcd9615cc1e6a17fae168dc1ee3[m
+Author: AmourDamage <112355695+AmourDamage@users.noreply.github.com>
+Date:   Tue Dec 13 20:30:25 2022 +0400
+
+    Initial commit
