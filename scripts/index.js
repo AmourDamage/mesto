@@ -32,7 +32,7 @@ function openPopup() {
 }
 
 function closePopup() {
-    popupModal.classList.remove('popup_opened')
+    popupModal.classList.remove('popup_opened');
 }
 
 
